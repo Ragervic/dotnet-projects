@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,
+html {
+  height: 100%;
+  font-family: "Georgia", serif;
+}
+
+.hero {
+  background: url('@Url.Content("~/images/vic3.jpg")') no-repeat center
+    center/cover;
+  height: 100vh;
+  color: #eee;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  background-blend-mode: darken;
+  max-width: max-content;
+}
+
+.hero h1 {
+  font-size: 3em;
+  letter-spacing: 3px;
+  margin-bottom: 0.2em;
+}
+
+.hero h2 {
+  font-weight: 300;
+  font-size: 1.2em;
+  margin-bottom: 1.5em;
+}
+
+.hero .icon {
+  margin-bottom: 1em;
+}
+
+.hero button {
+  padding: 12px 30px;
+  border: 1px solid #ccc;
+  background: transparent;
+  color: #eee;
+  cursor: pointer;
+  font-size: 1em;
+  letter-spacing: 1px;
+  transition: all 0.3s ease;
+}
+
+.hero button:hover {
+  background: #fff;
+  color: #000;
+}
