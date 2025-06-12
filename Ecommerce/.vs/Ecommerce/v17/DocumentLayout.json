@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ms-Echo\\source\\repos\\Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ms-Echo\\source\\repos\\Ecommerce\\Estore.UseCases\\SearchProductScreen\\ViewProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Estore.UseCases\\SearchProductScreen\\ViewProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ms-Echo\\source\\repos\\Ecommerce\\Estore.UseCases\\SearchProductScreen\\SearchProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Estore.UseCases\\SearchProductScreen\\SearchProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ms-Echo\\source\\repos\\Ecommerce\\Estore.DataStore.HardCoded\\ProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Estore.DataStore.HardCoded\\ProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ms-Echo\\source\\repos\\Ecommerce\\Estore.CoreBusiness\\PluginInterfaces\\DataStore\\IProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Estore.CoreBusiness\\PluginInterfaces\\DataStore\\IProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ms-Echo\\source\\repos\\Ecommerce\\BlazorApp2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlazorApp2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Ms-Echo\\source\\repos\\Ecommerce\\Estore.UseCases\\SearchProductScreen\\ViewProduct.cs",
+              "RelativeDocumentMoniker": "Estore.UseCases\\SearchProductScreen\\ViewProduct.cs",
+              "ToolTip": "C:\\Users\\Ms-Echo\\source\\repos\\Ecommerce\\Estore.UseCases\\SearchProductScreen\\ViewProduct.cs",
+              "RelativeToolTip": "Estore.UseCases\\SearchProductScreen\\ViewProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:52:47.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Ms-Echo\\source\\repos\\Ecommerce\\Estore.UseCases\\SearchProductScreen\\SearchProduct.cs",
+              "RelativeDocumentMoniker": "Estore.UseCases\\SearchProductScreen\\SearchProduct.cs",
+              "ToolTip": "C:\\Users\\Ms-Echo\\source\\repos\\Ecommerce\\Estore.UseCases\\SearchProductScreen\\SearchProduct.cs",
+              "RelativeToolTip": "Estore.UseCases\\SearchProductScreen\\SearchProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:52:09.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ms-Echo\\source\\repos\\Ecommerce\\Estore.DataStore.HardCoded\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Estore.DataStore.HardCoded\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Ms-Echo\\source\\repos\\Ecommerce\\Estore.DataStore.HardCoded\\ProductRepository.cs",
+              "RelativeToolTip": "Estore.DataStore.HardCoded\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:49:23.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ms-Echo\\source\\repos\\Ecommerce\\Estore.CoreBusiness\\PluginInterfaces\\DataStore\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Estore.CoreBusiness\\PluginInterfaces\\DataStore\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Ms-Echo\\source\\repos\\Ecommerce\\Estore.CoreBusiness\\PluginInterfaces\\DataStore\\IProductRepository.cs",
+              "RelativeToolTip": "Estore.CoreBusiness\\PluginInterfaces\\DataStore\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:48:23.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ms-Echo\\source\\repos\\Ecommerce\\BlazorApp2\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\Ms-Echo\\source\\repos\\Ecommerce\\BlazorApp2\\Program.cs",
+              "RelativeToolTip": "BlazorApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:00:34.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
