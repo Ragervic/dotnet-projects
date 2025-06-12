@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Estore.CoreBusiness\Estore.CoreBusiness.csproj" />
+    <ProjectReference Include="..\Estore.DataStore.HardCoded\Estore.DataStore.HardCoded.csproj" />
+    <ProjectReference Include="..\Estore.UseCases\Estore.UseCases.csproj" />
+  </ItemGroup>
+
+</Project>

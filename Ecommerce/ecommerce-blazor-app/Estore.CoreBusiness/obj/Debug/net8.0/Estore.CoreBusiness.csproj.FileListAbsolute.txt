@@ -1,0 +1,12 @@
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.CoreBusiness\bin\Debug\net8.0\Estore.CoreBusiness.deps.json
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.CoreBusiness\bin\Debug\net8.0\Estore.CoreBusiness.dll
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.CoreBusiness\bin\Debug\net8.0\Estore.CoreBusiness.pdb
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.CoreBusiness\obj\Debug\net8.0\Estore.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.CoreBusiness\obj\Debug\net8.0\Estore.CoreBusiness.AssemblyInfoInputs.cache
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.CoreBusiness\obj\Debug\net8.0\Estore.CoreBusiness.AssemblyInfo.cs
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.CoreBusiness\obj\Debug\net8.0\Estore.CoreBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.CoreBusiness\obj\Debug\net8.0\Estore.CoreBusiness.sourcelink.json
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.CoreBusiness\obj\Debug\net8.0\Estore.CoreBusiness.dll
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.CoreBusiness\obj\Debug\net8.0\refint\Estore.CoreBusiness.dll
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.CoreBusiness\obj\Debug\net8.0\Estore.CoreBusiness.pdb
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.CoreBusiness\obj\Debug\net8.0\ref\Estore.CoreBusiness.dll

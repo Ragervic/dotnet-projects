@@ -1,0 +1,29 @@
+﻿@using Estore.UseCases.SearchProductScreen
+@page "/product/{id:int}"
+@inject IViewProduct ViewProduct
+
+<h3>Product Details</h3>
+
+@if (product != null)
+{
+    <CardComponent Product="product" />
+}
+else
+{
+    <p class="text-danger">Product not found.</p>
+}
+
+<hr />
+<a href="/">Back To Products</a>
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+
+    private Product? product;
+
+    protected override void OnInitialized()
+    {
+        product = ViewProduct.Execute(Id);
+    }
+}

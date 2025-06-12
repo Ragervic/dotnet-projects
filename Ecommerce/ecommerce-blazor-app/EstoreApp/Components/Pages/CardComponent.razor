@@ -1,0 +1,17 @@
+﻿<div class="card" style="width: 28rem;">
+    <a href="@($"product/{Product.Id}")">
+        <img src="@Product.ImageLink" class="card-img-top" alt="...">
+    </a>
+    <div class="card-body">
+        <h5 class="card-title">@Product.Name</h5>
+        <h6 class="text-muted card-subtitle mb-2">@Product.Brand</h6>
+        <hr />
+        <h4 class="card-subtitle">@Product.Price.ToString("c")</h4>
+        <p class="card-text">@Product.Description</p>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public Product Product { get; set; } = default!;
+}

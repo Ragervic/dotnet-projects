@@ -1,0 +1,16 @@
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.UseCases\bin\Debug\net8.0\Estore.UseCases.deps.json
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.UseCases\bin\Debug\net8.0\Estore.UseCases.dll
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.UseCases\bin\Debug\net8.0\Estore.UseCases.pdb
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.UseCases\bin\Debug\net8.0\Estore.CoreBusiness.dll
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.UseCases\bin\Debug\net8.0\Estore.CoreBusiness.pdb
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.UseCases\obj\Debug\net8.0\Estore.UseCases.csproj.AssemblyReference.cache
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.UseCases\obj\Debug\net8.0\Estore.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.UseCases\obj\Debug\net8.0\Estore.UseCases.AssemblyInfoInputs.cache
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.UseCases\obj\Debug\net8.0\Estore.UseCases.AssemblyInfo.cs
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.UseCases\obj\Debug\net8.0\Estore.UseCases.csproj.CoreCompileInputs.cache
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.UseCases\obj\Debug\net8.0\Estore.UseCases.sourcelink.json
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.UseCases\obj\Debug\net8.0\Estore.U.E4B6398B.Up2Date
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.UseCases\obj\Debug\net8.0\Estore.UseCases.dll
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.UseCases\obj\Debug\net8.0\refint\Estore.UseCases.dll
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.UseCases\obj\Debug\net8.0\Estore.UseCases.pdb
+C:\Users\Ms-Echo\OneDrive\Documents\VICTOR\PROJECTS\dotnet-projects\Ecommerce\ecommerce-blazor-app\Estore.UseCases\obj\Debug\net8.0\ref\Estore.UseCases.dll

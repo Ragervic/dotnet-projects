@@ -1,0 +1,22 @@
+﻿@page "/"
+@using Estore.CoreBusiness.PluginInterfaces.DataStore
+@inject IProductRepository ProductRepository
+
+<div class="row w-100">
+    <h1 class="text-center fw-bold">E-STORE</h1>
+    @if (products != null)
+    {
+        @foreach (var product in products)
+        {
+            <CardComponent Product="product" />
+            <hr />
+        }
+    }
+</div>
+
+@code {
+    public IEnumerable<Product> products { get; set; } = new List<Product>();
+    private string? filter = null;
+
+    protected override void OnInitialized() => products = ProductRepository.GetProducts(filter ?? "");
+}
